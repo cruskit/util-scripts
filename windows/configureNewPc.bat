@@ -5,13 +5,15 @@ echo Install chocolatey
 
 echo Installing developer tools
 choco install -y git
+choco install -y sourcetree
 choco install -y atom
 choco install -y notepadplusplus.install
 
 
-choco install -y virtualbox
-choco install -y vagrant
-
+choco install -Y jdk8
 choco install -y nodejs.install
 
-choco install -y sourcetree
+choco install -y intellijidea-community
+
+choco install -y virtualbox
+choco install -y vagrant
