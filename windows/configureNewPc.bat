@@ -15,5 +15,12 @@ choco install -y nodejs.install
 
 choco install -y intellijidea-community
 
-choco install -y virtualbox
-choco install -y vagrant
+#choco install -y virtualbox
+#choco install -y vagrant
+
+choco install -y googledrive
+
+choco install -y putty.install
+choco install -y paint.net
+
+choco install -y slack
