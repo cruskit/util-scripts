@@ -28,3 +28,4 @@ choco install -y paint.net
 
 choco install -y slack
 
+choco install -u adobereader
